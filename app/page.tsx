@@ -1,7 +1,8 @@
-import React, { FC, useState } from 'react';
+"use client"
+import React, { useState } from 'react';
 import { Heart, Play } from 'lucide-react';
 
-const App= (): FC =>{
+const App= () =>{
   const [isHovered, setIsHovered] = useState(false);
 
   // Replace this URL with your father's picture
