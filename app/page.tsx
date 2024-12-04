@@ -9,7 +9,7 @@ const App= () =>{
   const fatherImageUrl = "imageCadeau.jpg";
   
   // Replace this URL with your video URL when ready
-  const videoUrl = "https://youtu.be/GfMHak-gZ20?si=DwhtQnekUmBnyDw6";
+  const videoUrl = "https://youtu.be/jljQurAWah4?si=33ATQpejIx75G5z3";
 
   return (
     <div 
